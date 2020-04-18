@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Expand super-tags",
+        "command": "super-tags:expand"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "super-tags",
+          "submenu": [
+            {
+              "label": "Expand",
+              "command": "super-tags:expand"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

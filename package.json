@@ -1,0 +1,18 @@
+{
+  "name": "atom-super-tags",
+  "main": "./lib/super-tags",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [],
+  "activationCommands": {
+    "atom-workspace": "super-tags:expand"
+  },
+  "repository": "https://github.com/atom/super-tags",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+    "super-tags": "^1.0.0"
+  }
+}
