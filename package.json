@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "atom-super-tags:expand"
   },
-  "repository": "https://github.com/atom/atom-super-tags",
+  "repository": "https://github.com/ktfth/atom-super-tags",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
