@@ -2,8 +2,8 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Expand super-tags",
-        "command": "super-tags:expand"
+        "label": "Expand atom-super-tags",
+        "command": "atom-super-tags:expand"
       }
     ]
   },
@@ -12,11 +12,11 @@
       "label": "Packages",
       "submenu": [
         {
-          "label": "super-tags",
+          "label": "atom-super-tags",
           "submenu": [
             {
               "label": "Expand",
-              "command": "super-tags:expand"
+              "command": "atom-super-tags:expand"
             }
           ]
         }

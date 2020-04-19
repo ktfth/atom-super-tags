@@ -1,4 +1,4 @@
-# super-tags package
+# atom-super-tags package
 
 A short description of your package.
 
