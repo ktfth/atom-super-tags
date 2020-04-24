@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-e": "atom-super-tags:expand"
+  "atom-text-editor:not([mini])": {
+    "ctrl-e": "atom-super-tags:expand"
   }
 }
